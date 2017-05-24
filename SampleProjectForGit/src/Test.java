@@ -2,11 +2,15 @@
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("뚜비두밥 오뚜기밥");
-	}
-	public static void jihye(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("짜장짜장 짜잔 면");
+		System.out.println("대형-수정");
+		System.out.println("대흐이");
+		
+		// 주석도 같이가요 뾰로롱 ^0^
+		System.out.println("필요없는 거 지웠음 - 민쥬");
 	}
+<<<<<<< HEAD
+=======
+>>>>>>> branch 'master' of https://github.com/Mindo01/GitSampleProject.git
 }

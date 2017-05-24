@@ -9,5 +9,8 @@ public class Test {
 		
 		// 주석도 같이가요 뾰로롱 ^0^
 		System.out.println("필요없는 거 지웠음 - 민쥬");
+		
+		// 아예 그냥 새로 받았어요 ㅠ
+		String name = "민주"+" 김";
 	}
 }

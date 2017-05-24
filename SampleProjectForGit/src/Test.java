@@ -9,5 +9,7 @@ public class Test {
 		
 		// 주석도 같이가요 뾰로롱 ^0^
 		System.out.println("필요없는 거 지웠음 - 민쥬");
+		
+		// 주석도 같이가는지 대희도 확인 ^^
 	}
 }

@@ -10,7 +10,4 @@ public class Test {
 		// 주석도 같이가요 뾰로롱 ^0^
 		System.out.println("필요없는 거 지웠음 - 민쥬");
 	}
-<<<<<<< HEAD
-=======
->>>>>>> branch 'master' of https://github.com/Mindo01/GitSampleProject.git
 }
